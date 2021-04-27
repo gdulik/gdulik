@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 <!--
 **gdulik/gdulik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
