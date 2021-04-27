@@ -1,6 +1,6 @@
 # Hi, my name is Tomas
 
-I'm self-taught **web developer** and **designer** from Czech republic.
+I'm self-taught freelance **web developer** and **designer** from Czech republic, currently looking for a job opportunity.
 
 I've done several design project for companies, such as [ExecutiveJob](https://www.executivejob.cz/), [Edufy](https://www.edufy.cz/) or [Decathlon](https://www.decathlon.cz/).
 
